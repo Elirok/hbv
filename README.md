@@ -1,2 +1,2 @@
-# hbv
-HBV, hydrological physically based model
+# HBV
+hydrological physically based model
